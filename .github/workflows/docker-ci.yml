@@ -1,4 +1,4 @@
-name: Build melashri/rustdesk & Push to Dockerhub
+name: Build melashri/focalboard & Push to Dockerhub
 
 on:
   workflow_dispatch:
